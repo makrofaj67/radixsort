@@ -35,7 +35,8 @@ SRCS_SORTER		=	radixsorter/indexing.c \
 					radixsorter/stack_ops_rev_rotate.c \
 					radixsorter/stack_ops_rotate.c \
 					radixsorter/stack_ops_swap_push.c \
-					radixsorter/stack_utils.c
+					radixsorter/stack_utils.c \
+					radixsorter/stack_ops_swap_push0.c
 # Eğer swap ve push'u ayırdıysanız:
 # SRCS_SORTER		=	radixsorter/indexing.c \
 #					radixsorter/push_swap_main_logic.c \

@@ -55,4 +55,7 @@ void		assign_indices(t_stacks *stacks);
 
 void		radix_sort(t_stacks *stacks);
 
+void		swap(t_node **stack);
+void		push(t_node **from, t_node **to);
+
 #endif

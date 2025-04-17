@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap_main_logic.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: your_login <your_login@student.42.fr>      +#+  +:+       +#+        */
+/*   By: rakman <rakman@student.42istanbul.com.tr>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/16 15:00:00 by your_login        #+#    #+#             */
-/*   Updated: 2025/04/16 15:55:54 by rakman           ###   ########.fr       */
+/*   Created: 2025/04/17 08:24:57 by rakman            #+#    #+#             */
+/*   Updated: 2025/04/17 08:26:17 by rakman           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
