@@ -6,7 +6,7 @@
 /*   By: your_login <your_login@student.42.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/16 15:00:00 by your_login        #+#    #+#             */
-/*   Updated: 2025/04/16 15:55:59 by rakman           ###   ########.fr       */
+/*   Updated: 2025/04/17 07:03:00 by rakman           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,9 +50,7 @@ void	radix_sort(t_stacks *stacks)
 			j++;
 		}
 		while (stacks->size_b != 0)
-		{
 			pa(stacks);
-		}
 		i++;
 	}
 }
